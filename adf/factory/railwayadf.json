@@ -1,0 +1,15 @@
+{
+	"name": "railwayadf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7d04def2-b0fc-4e41-ba92-51db7a218824",
+		"tenantId": "8c25f501-4f7e-4b41-9aa6-bdd5f317d4e4"
+	}
+}
